@@ -22,4 +22,5 @@ Since I'm just starting with JavaScript, I would love to receive project ideas o
 Your feedback and ideas will be greatly appreciated as I continue to learn and grow as a developer.
 
 ## License
+<<<<<<< HEAD
 This project is open-source and available under the [MIT License](LICENSE).
